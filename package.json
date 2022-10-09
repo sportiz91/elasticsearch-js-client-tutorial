@@ -1,0 +1,11 @@
+{
+  "name": "elasticsearch-js-client-tutorial",
+  "version": "1.0.0",
+  "description": "Elastic search JS Client (node.js) tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Pablo, \"Lasantoneta\", Ortiz",
+  "license": "ISC"
+}
